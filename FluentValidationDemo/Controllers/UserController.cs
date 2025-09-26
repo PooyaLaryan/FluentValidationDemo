@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using FluentValidationDemo.Dtos;
+using Microsoft.AspNetCore.Mvc;
 
 namespace FluentValidationDemo.Controllers
 {

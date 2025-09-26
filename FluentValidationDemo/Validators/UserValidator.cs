@@ -1,4 +1,5 @@
 ﻿using FluentValidation;
+using FluentValidationDemo.Dtos;
 
 namespace FluentValidationDemo.Validators
 {

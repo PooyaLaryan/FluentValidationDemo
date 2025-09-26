@@ -1,4 +1,4 @@
-namespace FluentValidationDemo
+namespace FluentValidationDemo.Dtos
 {
     public class User
     {
